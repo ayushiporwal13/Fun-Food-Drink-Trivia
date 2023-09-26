@@ -29,9 +29,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-[Video Walkthrough](https://i.imgur.com/gdxXXRp.gifv)
+Here's a walkthrough of the implemented required features: [Video Walkthrough](https://i.imgur.com/gdxXXRp.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [CloudConvert](https://cloudconvert.com/mp4-to-gif) 
@@ -42,11 +40,11 @@ GIF created with [CloudConvert](https://cloudconvert.com/mp4-to-gif)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+None
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ayushi Porwal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
