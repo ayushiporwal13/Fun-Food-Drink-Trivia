@@ -1,0 +1,192 @@
+[
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " At which stage of a meal would you have an hors d'oeuvre?",
+        "vegan": 0,
+        "answers": [
+            "Beginning"
+        ],
+        "img":"https://givemesomeenglish.com/wp-content/uploads/2022/04/At-The-Beginning-GiveMeSomeEnglish.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Even though it tastes nothing like grapes, a __________ is often eaten for breakfast.",
+        "vegan": 1,
+        "answers": [
+            "Grapefruit"
+        ],
+        "img":"https://extension.usu.edu/nutrition/images/grapefruit-1.png"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " From what animal do we get venison",
+        "vegan": 2,
+        "answers": [
+            "Deer"
+        ],
+        "img":"https://www.nps.gov/articles/000/images/v1_fawn_bulletin_2013.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " From which fish is caviar obtained",
+        "vegan": 2,
+        "answers": [
+            "Sturgeon"
+        ],
+        "img":"https://tnaqua.org/app/uploads/2020/05/cropped-ID_LakeSturgeon_1200x490.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " From which fruit is the liqueur Kirsh made",
+        "vegan": 1,
+        "answers": [
+            "Cherry"
+        ],
+        "img":"https://assets.bonappetit.com/photos/60ef61f34d6cfb72ea6baeec/16:9/w_1280,c_limit/Sweet-Sour-Cherries.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Iceberg, Boston, and Bibb are types of _________.",
+        "vegan": 1,
+        "answers": [
+            "Lettuce"
+        ],
+        "img":"https://post.healthline.com/wp-content/uploads/2020/03/romaine-lettuce-1296x728-body.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Is a schnitzel a sweet or a savoury?",
+        "vegan": 0,
+        "answers": [
+            "Savoury"
+        ],
+        "img":"https://i.pinimg.com/474x/72/56/20/725620eb6ec5cb573bcf73f22ea68ab6.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Laetrile is associated with the pit of which fruit",
+        "vegan": 1,
+        "answers": [
+            "Apricot"
+        ],
+        "img":"https://www.tastingtable.com/img/gallery/which-state-produces-the-most-apricots-in-the-us/intro-1666295090.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Little round chocolate candies are known as _&m's.",
+        "vegan": 2,
+        "answers": [
+            "M"
+        ],
+        "img":"https://facts.net/wp-content/uploads/2023/05/mm-brand.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Mustard, ketchup and onions on a hotdog are all ___________.",
+        "vegan": 2,
+        "answers": [
+            "Condiments"
+        ],
+        "img":"https://www.thedailymeal.com/img/gallery/14-condiments-that-need-to-be-refrigerated/l-intro-1673127378.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Name the only fruit named for its color.",
+        "vegan": 1,
+        "answers": [
+            "Orange"
+        ],
+        "img":"https://media.post.rvohealth.io/wp-content/uploads/2020/08/difference-between-tangerines-oranges-thumb-732x549.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Natural vanilla flavoring comes from this plant.",
+        "vegan": 1,
+        "answers": [
+            "Orchid"
+        ],
+        "img":"https://cdn11.bigcommerce.com/s-9ss4ehqfnb/images/stencil/1280x1280/products/127/3773/PO-Group__64852.1672757010.jpg?c=2"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Often drank, this liquid is normally harvested from female cows.",
+        "vegan": 0,
+        "answers": [
+            "Milk"
+        ],
+        "img":"https://www.southernliving.com/thmb/zCKBQZG85v0gxUpn5Nm_8elGJaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1413944242-79c406e0bbe4435596bc671f95a949cb.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Often eaten for breakfast, bacon is actually the flesh of what barnyard animal",
+        "vegan": 2,
+        "answers": [
+            "Pig"
+        ],
+        "img":"https://img.freepik.com/free-vector/cute-pig-with-pink-skin-white_1308-40061.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Often eaten for breakfast, the egg comes from what barnyard animal",
+        "vegan": 0,
+        "answers": [
+            "Chicken"
+        ],
+        "img":"https://a-z-animals.com/media/2019/11/Chicken-rooster-and-hens-1024x535.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Rum is made from this plant.",
+        "vegan": 1,
+        "answers": [
+            "Sugar cane"
+        ],
+        "img":"https://www.saveur.com/uploads/2022/03/05/sugarcane-linda-xiao.jpg?auto=webp"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " Vermicelli literally means ___________.",
+        "vegan": 2,
+        "answers": [
+            "Little worms"
+        ],
+        "img":"https://i.natgeofe.com/n/84c45644-d6e5-41f1-8514-9a200ed39776/RBT0E8_square.jpg"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " What colour is creme de menthe?",
+        "vegan": 2,
+        "answers": [
+            "Green"
+        ],
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Color_icon_green.png/440px-Color_icon_green.png"
+    },
+    {
+        "category_id": "FOOD_AND_DRINKS",
+        "lang": "en",
+        "question": " What colour is the flesh of an avocado?",
+        "vegan": 1,
+        "answers": [
+            "Green"
+        ],
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Color_icon_green.png/440px-Color_icon_green.png"
+    }
+]

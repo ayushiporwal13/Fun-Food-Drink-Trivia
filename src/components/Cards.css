@@ -1,0 +1,46 @@
+.flashcards{
+    opacity: 0.8;
+    height: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* center the content vertically */
+    align-items: center; /* center the content horizontally */
+    border-radius: 10%;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.question{
+    height: 3rem;
+    color: black;
+    text-transform: capitalize;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.answer{
+    color: black;
+    font-weight: bold;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+
+
+img{
+    height: 7em;
+    width: 100%;
+    z-index: 1;
+    opacity: 1;
+}
+
+.yellow{
+    background-color: rgb(253, 253, 137);    
+}
+
+.green{
+    background-color: rgb(172, 228, 172);    
+}
+
+.blue{
+    background-color: rgb(116, 207, 213) 
+}
