@@ -1,21 +1,35 @@
 body{
-  background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/plant-based-food-mc-220323-02-273c7b.jpg");
+  background-image: url(pumpkinbg.jpg);
   background-size: cover;
 }
+
 
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  color: white;
-  opacity: 1 important;
+  color:white;
 }
 
-.buttons {
+.buttons-container {
   padding: 1%;
 }
 
-button{
-  margin: 0 5px;
+button {
+  margin: 5px;
+  border: 10px solid red;
+}
+
+#correct{
+  border: 5px ridge rgb(160, 236, 160);
+}
+
+#incorrect{
+  border: 5px ridge rgb(216, 72, 72);
+}
+
+h4{
+  display: inline-block;
+  padding: 1% 2%;
 }
