@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { FaChevronRight, FaChevronLeft } from "react-icons/fa";
 import { Cards } from './components/Cards';
-import Data from './data.json';
+import Data from './Data.json';
 import { compareTwoStrings } from 'string-similarity';
 
 function App() {
