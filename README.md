@@ -1,4 +1,4 @@
-# Web Development Project 3 - [*Fun Food and Drink Trivia Questions*]
+# Web Development Project 3 - [*Fun Food and Drink Trivia Questions*](https://fun-food-and-drink-trivia.web.app/)
 
 Submitted by: **Ayushi Porwal**
 
